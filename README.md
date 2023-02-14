@@ -1,4 +1,4 @@
-# snowsight
+# Snowsight Dashboard 
 
 This is an entry-level project is designed for business analysts analyzing their company's data in Snowflake. Being in the role of an analyst, this project represenst working in the strategy department of a fictional burger chain in NY. The task is to create a dashboard to analyze your company's market share and benchmark it against major competitors. At the end of the project, you will be able to:
 
