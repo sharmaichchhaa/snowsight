@@ -7,6 +7,6 @@ Use snowflake worksheets to write your first SQL query and create your first Sno
 Create your trial account, Navigate the Snowflake UI and source data from Snowflake Data Marketplace.
 Create virtual warehouses, database and table to load data into Snowflake.
 
-![plot](/Users/ichchhapradeepsharma/Desktop/image1.png)
+![plot](image1.png)
 
-![Snowsight dashboard](/Users/ichchhapradeepsharma/Desktop/image1.png?raw=true "Title")
+![Snowsight dashboard](image1.png?raw=true "Title")
